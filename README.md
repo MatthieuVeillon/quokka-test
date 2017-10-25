@@ -1,9 +1,10 @@
 ## Ouput of Quokka with putting the snippet at the top of the file : 
-https://user-images.githubusercontent.com/20015180/32003529-605035d2-b96d-11e7-83fd-f3a02d99cbea.png
+![alt tag](https://user-images.githubusercontent.com/20015180/32003529-605035d2-b96d-11e7-83fd-f3a02d99cbea.png)
 
 ## Ouput of Quokka with the quokka config json change : 
 
-https://user-images.githubusercontent.com/20015180/32003528-6041305a-b96d-11e7-9c21-8ba332e43c41.png
+![alt tag](https://user-images.githubusercontent.com/20015180/32003528-6041305a-b96d-11e7-9c21-8ba332e43c41.png
+)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
